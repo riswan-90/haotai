@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.readmore{
+    border-radius: 21px;
+    background: #FF575E;
+    padding: 9px;
+    width: 113px;
+    text-align: center;
+}
+.haotai{
+    padding-left: 160px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.li{
+    border-radius: 13px;
+    text-align: center;
+    background: #FFE2E4;
+    padding: 18px;
+}
+.border{
+    width: 100%;
+}
+#ul{
+    padding-left: 95px;
+}
+.p{
+    border-radius: 16px;
+    background: #FFE2E4;
+    text-align: center;
+    width: 134px;
+    padding: 6px;
+    color: #FF575E;
+}
+.send{
+    color: white;
+}
+.style{
+    list-style: none;
+}
+.cd{
+    border-radius: 52px;
+    padding: 4px;
+    background-color: #FF575E;
+    text-align: center;
+    width: 113px;
+}
+.vacancy{
+    border-radius: 10px;
+    background: #FFE2E4;
+    padding: 3px;
+    color:  #FF575E;
+}
+#benefits{
+    background-color: #FCF3F3;
+}
+#more{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    background-color: #FF575E;
+    color: white;
+    margin-top: 91px;
+}
